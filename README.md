@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vasumathimuthaiyan
-- 👀 I’m interested in working as a writer. 
+- 👀 I’m interested in working as a security analyst. 
 - 🌱 I’m currently learning programming skills.
 - 📫 How to reach me vasumathimenaka@gmail.com
 
