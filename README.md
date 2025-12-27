@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vasumathimuthaiyan
+- 👋 Hi, I’m @vasumathi13
 - 👀 I’m interested in working as a security analyst. 
 - 🌱 I’m currently learning programming skills.
-- 📫 How to reach me vasumathimenaka@gmail.com
+
 
 <!---
 vasumathimuthaiyan/vasumathimuthaiyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
